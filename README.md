@@ -1,2 +1,4 @@
-# Green-Screen-Image-Replacement
-Wonder how a simple plain green background can be replaced by any image
+# Green Screen
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Swarajkotap/pen/OJMNErR](https://codepen.io/Swarajkotap/pen/OJMNErR).
+

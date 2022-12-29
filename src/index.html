@@ -1,0 +1,36 @@
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+
+<p>
+  This is a Green Screen composition web page
+</p>
+
+<canvas id="fgcan">
+</canvas>
+
+<canvas id = "bgcan">
+</canvas>
+
+<canvas id = "opcan">
+</canvas>
+
+<p>
+  Foreground
+<input type="file" multiple="false" accept="image/*" onchange="f1()" id="id1"/>
+</p>
+
+<p>
+ Background
+<input type="file" multiple="false" accept="image/*" onchange="f2()" id="id2"/>
+</p>
+
+
+<bold>
+  Please make sure that both foreground and background image have the same resolution
+</bold>
+<p>
+  <br>
+  Create Composite
+<button onclick="greenScreen()">Blend</button>
+</p>
+                                            
+                                                                       

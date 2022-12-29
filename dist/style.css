@@ -1,0 +1,19 @@
+canvas{
+  height : 200px;
+  border : 1px solid silver;
+  padding : 10px 10xp 10px 10px;
+}
+
+input{
+  font-size : 14px;
+}
+
+p{
+  font-family : arial;
+  color : dimgray;
+}
+
+body{
+  font-family : arial;
+  margin : 30px;
+}
